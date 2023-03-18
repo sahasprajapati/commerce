@@ -2090,11 +2090,6 @@
     async-retry "1.2.3"
     lru-cache "5.1.1"
 
-"@zeit/next-source-maps@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@zeit/next-source-maps/-/next-source-maps-0.0.3.tgz#d62e93b4f5ccdd542c8530d21f60dd2757d98e3c"
-  integrity sha512-gFDf7yQI8r/fdzTKJG9cp0rhKscRJWs/uebhScj8nZINT16kPTVm23JAi5EivO5pAJmHGzT1A8dwxAhTX0liNw==
-
 abort-controller@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/abort-controller/-/abort-controller-3.0.0.tgz#eaf54d53b62bae4138e809ca225c8439a6efb392"
@@ -4689,10 +4684,10 @@ next-seo@^4.11.0:
   resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-4.14.0.tgz#8a3243286f65606da81f6fdb0f8b1673ab5dd5a6"
   integrity sha512-HHL82n2bx1Aj0z8kpy31LoJxzWpZwC/RlXleoO5zNNjJjEGtNS7uZ+wrvAbFGUqC4V54I1sZa4f0WZV+mpOx6w==
 
-next-themes@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/next-themes/-/next-themes-0.0.4.tgz#fb06a9d03887201dd8fdd75fc1c84f406988f61e"
-  integrity sha512-j0bJJ6INanFsniCL31j1ZhjNaoqIFOaTeiUakbGpGxDz4+318Zp2ZfaorSjpUhzDWbXBKA3ZDE0DSUVWJ/8EsA==
+next-themes@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/next-themes/-/next-themes-0.2.1.tgz#0c9f128e847979daf6c67f70b38e6b6567856e45"
+  integrity sha512-B+AKNfYNIzh0vqQQKqQItTS8evEouKD7H5Hj3kmuPERwddR2TxvDSFZuTj6T7Jfn1oyeUyJMydPl1Bkxkh0W7A==
 
 next-tick@~1.0.0:
   version "1.0.0"
