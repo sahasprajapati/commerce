@@ -35,7 +35,7 @@
   "dependencies": {
     "@bigcommerce/storefront-data-hooks": "^1.0.2",
     "@headlessui/react": "^0.2.0",
-    "@react-aria/overlays": "^3.4.0",
+    "@react-aria/overlays": "^3.13.0",
     "@tailwindcss/ui": "^0.6.2",
     "@types/lodash.throttle": "^4.1.6",
     "@vercel/fetch": "^6.1.0",
